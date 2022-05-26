@@ -1,4 +1,4 @@
-# Heading1 Google Data Analytics: Capstone
+# Google Data Analytics: Capstone
 
 Bellabeat Fitness Tracking App Analysis
 
