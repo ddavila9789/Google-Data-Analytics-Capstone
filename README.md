@@ -2,7 +2,8 @@
 
 ## Bellabeat Fitness Tracking App Analysis
 
-https://user-images.githubusercontent.com/16343592/170406200-80cce94a-3149-4b1c-9799-204e9465b3fa.png
+![127726632-fe6da755-6267-4227-8740-77d3275f446e](https://user-images.githubusercontent.com/16343592/170406301-4b20ce53-140e-4d70-8c98-89f4bbc31efb.png)
+
 
 
 This analysis is an optional Capstone project from the Google Data Analytics Professional Certificate on Coursera.
