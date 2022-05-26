@@ -30,4 +30,4 @@ Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analy
 
 ### Data Set:
 
-The data set is publicly available on [Kaggle]([(https://www.kaggle.com/datasets/arashnic/fitbit?resource=download)] “Dataset”).
+The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit?resource=download).
